@@ -15,3 +15,11 @@ body {
     color: blueviolet;
     background-color: black;
 }
+
+.box{
+     height: 100px;
+     width: 100px;
+     padding: 30px;
+     border: 20px solid rgb(62, 211, 62);
+     background-color: aqua;
+}
