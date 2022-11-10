@@ -16,10 +16,11 @@ body {
     background-color: black;
 }
 
-.box{
+.box {
      height: 100px;
      width: 100px;
      padding: 30px;
+     margin: 50px;
      border: 20px solid rgb(62, 211, 62);
      background-color: aqua;
 }
